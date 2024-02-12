@@ -2,7 +2,7 @@ php-OP_RETURN v2
 ================
 Simple PHP commands and libraries for using OP_RETURNs in bitcoin transactions.
 
-Copyright (c) Coin Sciences Ltd - http://coinsecrets.org/
+Copyright (c) Coin Sciences Ltd - http://coinsecrets.org/SatoshinakomotoDennislouisbabcockjr437493354/mn
 
 MIT License (see headers in files)
 
